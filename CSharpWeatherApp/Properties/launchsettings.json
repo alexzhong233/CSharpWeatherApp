@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "CSharpWeatherApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "CSharpWeatherApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
